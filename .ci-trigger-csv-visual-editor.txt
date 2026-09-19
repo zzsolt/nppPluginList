@@ -1,0 +1,1 @@
+Temporary CI trigger for validating the CSV Visual Editor 1.0.1 nppPluginList submission.
